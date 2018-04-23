@@ -1,0 +1,2 @@
+# bricks
+a simple game
